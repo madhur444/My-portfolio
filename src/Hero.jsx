@@ -1,6 +1,7 @@
 import React from "react"
 import { SiGithub } from "react-icons/si"
 import { FaLinkedin } from "react-icons/fa"
+import PP from "./src/assets/PP.jpeg"
 const Hero = () => {
   return (
 
@@ -22,7 +23,7 @@ const Hero = () => {
   
   </div>
   <div className="flex-1 flex justify-center mt-40">
-    <img src="./src/assets/PP.jpeg" alt="Madhur" className=" rounded-4xl w-100 h-100 object-cover items-center mb-46" />
+    <img src={PP} alt="Madhur" className=" rounded-4xl w-100 h-100 object-cover items-center mb-46" />
   </div>
 
   
