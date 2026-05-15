@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa'
-import { CiLink } from "react-icons/ci";
 
 const liveProjects = [
   {
