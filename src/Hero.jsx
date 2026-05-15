@@ -1,6 +1,6 @@
 import { SiGithub } from "react-icons/si"
 import { FaLinkedin } from "react-icons/fa"
-import PP from "./public/PP.jpeg"
+import PP from "./assets/PP.jpeg"
 const Hero = () => {
   return (
 
