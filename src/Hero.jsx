@@ -1,7 +1,7 @@
 import React from "react"
 import { SiGithub } from "react-icons/si"
 import { FaLinkedin } from "react-icons/fa"
-import PP from "./src/assets/PP.jpeg"
+import PP from "./assets/PP.jpeg"
 const Hero = () => {
   return (
 
