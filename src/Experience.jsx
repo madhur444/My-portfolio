@@ -12,7 +12,7 @@ const exps = [
   {
     role: "WEB Developer",
     company: "OPA RENTAL",
-    duration: "01/01/2025 - 30/04/2026",
+    duration: "01/11/2025 - 30/04/2026",
     type: "Experience",
     desc: "Worked on web development tasks, improved interfaces and debugging.",
     link: "https://www.oparealestate.com/",
