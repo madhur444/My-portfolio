@@ -34,7 +34,7 @@ const Hero = () => {
               </button>
             </a>
 
-            <a href="https://www.linkedin.com/in/madhur-kataria">
+            <a href="https://www.linkedin.com/in/madhur-kataria-03162a389/?skipRedirect=true">
               <button className="text-2xl sm:text-3xl bg-white text-orange-400 border border-orange-500 rounded-2xl p-3 cursor-pointer">
                 <FaLinkedin />
               </button>
